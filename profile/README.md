@@ -35,7 +35,7 @@ We swiftly understand our clients' business objectives, transform their vision i
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · React Native
 **Backend:** Node.js · PHP · MySQL · REST APIs
 **Ecommerce:** WooCommerce · Shopify · Stripe
-**AI & Automation:** OpenAI · N8N · Custom AI integrations
+**AI & Automation:** Rust · Bifrost · Langfuse · OpenAI · N8N · Custom AI integrations
 **CMS & Other:** WordPress · Drupal · Shopify Liquid
 
 ---
@@ -46,7 +46,7 @@ We've partnered with 50+ clients across industries including health & wellness, 
 
 A sample of the organizations we've built for:
 
-Allied Universal · Pickleball Superstore · Hyperthermia Cancer Institute · Lawyers Mutual · Rocketship Financial · Mocean Carshare · Radical Skincare · Skyfish · Fractal Digital · Sawdust Art Festival · GNetwork Club · Gigfiliate · CalTax · Lysulin · P448 · Paladin Power · Revenue Logic · Boom Beauty · Life Matters Podcast
+Atmosphera Beauty · Allied Universal · Bee's Knees Wellness · Boom Beauty · CalTax · CubCloud AI · Fractal Digital · GNetwork Club · Gigfiliate · Hyperthermia Cancer Institute · Lawyers Mutual · Life Matters Podcast · Lysulin · Mocean Carshare · P448 · Paladin Power · Pickleball Superstore · Radical Skincare · Revenue Logic · Rocketship Financial · Sawdust Art Festival · Skyfish
 
 > [View the full portfolio →](https://viressoftware.com/portfolio)
 
