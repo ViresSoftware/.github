@@ -11,6 +11,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://viresinnumeris.biz/wp-content/uploads/2026/02/vires-ai-avatar.jpg" width="100%" alt="Vires AI Avatar" />
+</p>
+
 ## Who We Are
 
 Vires Software is a white glove software development agency specializing in tailored solutions for small to mid-sized businesses — with a particular strength in lean startup software stacks. Our team is expertly trained by senior engineers from **Acorns Grow Incorporated**, a leader in the fintech industry.
