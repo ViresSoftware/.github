@@ -78,7 +78,7 @@ Have a project in mind? We'd love to hear about it.
 
 🌐 [viressoftware.com](https://viressoftware.com)
 📬 [Contact Us](https://viressoftware.com/support)
-💼 [View Services & Pricing](https://viressoftware.com/pricing)
+💼 [View Services](https://viressoftware.com/services)
 
 ---
 
